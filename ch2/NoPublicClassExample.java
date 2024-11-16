@@ -1,3 +1,5 @@
+package ch2;
+
 
 // Can have multiple Classes with Main method is non of the classes are public. 
 // Can invoke the main method of the class using java Classname.
